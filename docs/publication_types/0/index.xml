@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Academic</title>
+    <link>https://dereklhansen.github.io/academic-kickstart/publication_types/0/</link>
+      <atom:link href="https://dereklhansen.github.io/academic-kickstart/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 15:07:25 -0400</lastBuildDate>
+    <image>
+      <url>https://dereklhansen.github.io/academic-kickstart/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://dereklhansen.github.io/academic-kickstart/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>My_paper</title>
+      <link>https://dereklhansen.github.io/academic-kickstart/publication/my_paper/</link>
+      <pubDate>Wed, 09 Oct 2019 15:07:25 -0400</pubDate>
+      <guid>https://dereklhansen.github.io/academic-kickstart/publication/my_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
